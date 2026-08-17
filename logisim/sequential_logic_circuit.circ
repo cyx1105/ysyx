@@ -881,31 +881,38 @@
     <comp lib="0" loc="(1630,1150)" name="Power"/>
     <comp lib="0" loc="(1690,1270)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="RESET"/>
     </comp>
     <comp lib="0" loc="(1720,1410)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="ENABLE"/>
     </comp>
     <comp lib="0" loc="(1770,1260)" name="Pin">
       <a name="appearance" val="NewPins"/>
+      <a name="label" val="CLK"/>
     </comp>
     <comp lib="0" loc="(2190,1240)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
+      <a name="label" val="Q3"/>
       <a name="type" val="output"/>
     </comp>
     <comp lib="0" loc="(2190,1300)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
+      <a name="label" val="Q2"/>
       <a name="type" val="output"/>
     </comp>
     <comp lib="0" loc="(2190,1390)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
+      <a name="label" val="Q0"/>
       <a name="type" val="output"/>
     </comp>
     <comp lib="0" loc="(2200,1340)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
+      <a name="label" val="Q1"/>
       <a name="type" val="output"/>
     </comp>
     <comp lib="0" loc="(870,1230)" name="Ground">
